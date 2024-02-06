@@ -24,11 +24,11 @@ Follow these steps to get the application up and running on your machine:
 1. Clone the repository to your local machine.
 2. Open the solution in Visual Studio.
 3. Navigate to the `App.config` file.
-4. Replace `YOUR_LOCATION_API_KEY` with your actual API Keys.
+4. Replace `ENTER_YOUR_API_KEY` with your actual API Keys.
 
 ```xml
 <appSettings>
-    <add key="APIKey" value="YOUR_LOCATION_API_KEY"/>
+    <add key="APIKey" value="ENTER_YOUR_API_KEY"/>
 </appSettings>
 ```
 
