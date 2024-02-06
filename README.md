@@ -35,3 +35,7 @@ Follow these steps to get the application up and running on your machine:
 ### Running the Application
 
 Once the API Keys are configured, you can run the application through Visual Studio.
+
+## Screenshot
+
+![weather-desktop-app](https://github.com/annam015/Weather-Desktop-App/assets/92727258/33997656-86b8-426f-b580-6a549253e38a)
